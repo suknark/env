@@ -1,0 +1,4 @@
+Host github
+  User git
+  HostName github.com
+  IdentityFile /Users/rkrankus/.ssh/id_dsa.pub
